@@ -102,6 +102,12 @@ For issues, discussions, or reports:
 
 ## 📸 Screenshots
 
+### 📶 Setup & Qs panel
+<p align="center">
+  <img src="screenshots/setup.jpg" width="45%" />
+  <img src="screenshots/qs.jpg" width="45%" />
+</p>
+
 ### 🏠 Homescreen & Customization
 <p align="center">
   <img src="screenshots/home.jpg" width="45%" />
