@@ -102,7 +102,7 @@ For issues, discussions, or reports:
 
 ## 📸 Screenshots
 
-### 📶 Setup & Qs panel
+### 🛠️ Setup & 🪟 QS panel
 <p align="center">
   <img src="screenshots/setup.jpg" width="45%" />
   <img src="screenshots/qs.jpg" width="45%" />
@@ -132,10 +132,11 @@ For issues, discussions, or reports:
   <img src="screenshots/about.jpg" width="45%" />
 </p>
 
-### 📶 settings
+### ⚙️ Settings
 <p align="center">
   <img src="screenshots/settings.jpg" width="45%" />
 </p>
+
 
 
 ---
