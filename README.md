@@ -138,6 +138,11 @@ For issues, discussions, or reports:
 </p>
 
 
-
 ---
 
+## 📥 Download
+
+### 🔗 **ROM Download (HIOS 15.0.3 RU Stable)**
+➡️ **[Click here to download](https://t.me/lynx_prjkt/23)**
+
+---
