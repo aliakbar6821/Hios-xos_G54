@@ -98,3 +98,33 @@ For issues, discussions, or reports:
 
 ---
 
+---
+
+## 📸 Screenshots
+
+### 🏠 Homescreen & Customization
+<p align="center">
+  <img src="screenshots/home.jpg" width="45%" />
+  <img src="screenshots/customization.jpg" width="45%" />
+</p>
+
+### 🔒 Lockscreen & Animation
+<p align="center">
+  <img src="screenshots/lockscreen.jpg" width="45%" />
+  <img src="screenshots/animation.jpg" width="45%" />
+</p>
+
+### 🎧 Dolby & Security
+<p align="center">
+  <img src="screenshots/dolby.jpg" width="45%" />
+  <img src="screenshots/security.jpg" width="45%" />
+</p>
+
+### 📶 Network & About Device
+<p align="center">
+  <img src="screenshots/network.jpg" width="45%" />
+  <img src="screenshots/about.jpg" width="45%" />
+</p>
+
+---
+
