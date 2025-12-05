@@ -21,9 +21,9 @@
 ### 🚀 Enhancements
 - **Removed AOD** (not needed for IPS panels)
 - **Enabled Side-Mounted Fingerprint** – credit: @goupstream
-- **Added Transsion Flagship (HIOS)** – credit: @rennsproject
-- **Enabled System-Wide Blur** – credit: @rennsproject
-- **Flagship Animations Enabled** – credit: @rennsproject
+- **Added Transsion Flagship (HIOS)** – credit: @nyello08
+- **Enabled System-Wide Blur** – credit: @rennsproject & @nyello08
+- **Flagship Animations Enabled** – credit: @rennsproject & @nyello08
 - **Dolby Enabled** – credit: rama bondan & @WidyyQ
 - **Preferred Network 4G/5G Enabled** – credit: me
 - **Enforcing Fixed + Missing Denials Added** – credit: @nonemfck
