@@ -32,7 +32,9 @@
 - **Lockscreen Wallpaper Fixed** – credit: me
 - **Added 400+ SELinux Denials** – credit: @nonemfck
 - **Included OrangeFox (OFOX)** – credit: @ussr_1674 (Soviet)
-- **KernelSU Next Included by Default**
+- **Removed HBM mode** (not needed for IPS panels)
+- **removed sar support to improve wifi performance** – credit: @devhioliveira10
+- **KernelSU Next patched boot Included by Default**
   - *APK still required from GitHub*
 
 </details>
