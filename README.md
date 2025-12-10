@@ -55,7 +55,6 @@
 
 ## 🐞 **Known Bugs**
 - DT2W / R2W / ST2W *(Moto side)*
-- Fingerprint Enrollment Animation *(HIOS side)*
 
 ---
 
