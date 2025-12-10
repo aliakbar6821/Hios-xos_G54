@@ -36,7 +36,19 @@
 - **removed sar support to improve wifi performance** – credit: @devhioliveira10
 - **KernelSU Next patched boot Included by Default**
   - *APK still required from GitHub*
+  - 
+- **added Kaorios-Toolbox** – credit: @KaoriosToolbox
+## ✨ Features
 
+- ✅ Play Integrity fix  
+- 🧩 Pixel & property spoofing  
+- ⚙️ Per-app spoofing manager  
+- ☁️ Google Photos unlimited backup  
+- 🧰 Payload dumper integration  
+- 🎮 Unlock high-FPS modes in games  
+- 🧾 Modify application data files safely  
+
+---
 </details>
 
 ---
