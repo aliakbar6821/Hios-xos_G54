@@ -131,7 +131,7 @@ For issues, discussions, or reports:
 ### 📶 Network & About Device
 <p align="center">
   <img src="screenshots/network.jpg" width="45%" />
-  <img src="screenshots/about.jpg" width="45%" />
+  <img src="screenshots/lynx-about.jpg" width="45%" />
 </p>
 
 ### ⚙️ Settings
