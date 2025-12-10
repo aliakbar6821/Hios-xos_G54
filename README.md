@@ -134,9 +134,10 @@ For issues, discussions, or reports:
   <img src="screenshots/lynx-about.jpg" width="45%" />
 </p>
 
-### ⚙️ Settings
+### ⚙️ Settings & play services certified 
 <p align="center">
   <img src="screenshots/settings.jpg" width="45%" />
+  <img src="screenshots/certified.jpg" width="45%" />
 </p>
 
 
