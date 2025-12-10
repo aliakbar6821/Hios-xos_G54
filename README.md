@@ -140,6 +140,12 @@ For issues, discussions, or reports:
   <img src="screenshots/certified.jpg" width="45%" />
 </p>
 
+### 🧩 Integrity & spoof
+<p align="center">
+  <img src="screenshots/bl.jpg" width="45%" />
+  <img src="screenshots/strong.jpg" width="45%" />
+</p>
+
 
 ---
 
