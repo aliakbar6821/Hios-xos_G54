@@ -99,7 +99,8 @@ Huge thanks to all contributors:
 - @WidyyQ  
 - @nonemfck  
 - @ussr_1674 (Soviet)  
-- ChatGPT (overlay guidance)  
+- ChatGPT (overlay guidance)
+- @KaoriosToolbox
 
 ❤️ *Community effort makes this project possible.*
 
