@@ -61,27 +61,10 @@
 ## 📥 **Installation Guide**
 
 <details>
-<summary><b>Stock Firmware Flashing (Required Firmware)</b></summary>
-
-### 1️⃣ Flash Required Firmware (V1TDS35H.83-20-5-6)
-1. Download firmware from **Lolinet**
-2. Download **UserDC flashing script** from Moto G54 Ports
-3. Extract both in the **same folder**
-4. Boot phone into **bootloader**
-5. Run the **.bat** script
-6. Select **Option 6**
-7. Confirm and flash
-8. After completion, **manually boot to system**
-
-You are now on the required stock build.
-</details>
-
----
-
-<details>
 <summary><b>Port Flashing</b></summary>
-
-### 2️⃣ Flashing the Port
+  
+### Included Firmware (V1TDS35H.83-20-5-6)
+**Flashing the Port**
 1. Boot into **bootloader**
 2. Extract port zip
 3. Run `flash.bat`
