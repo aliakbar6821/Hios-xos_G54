@@ -68,7 +68,12 @@
 1. Boot into **bootloader**
 2. Extract port zip
 3. Run `flash.bat`
-4. Wait until device reboots automatically  
+4. Follow **Preferences**
+   Select:
+          install **KernelSUNext** (y/N)
+          Install **custom recovery** (y/N)
+          Confirm **Formatdata** (y/N)
+6. Wait until you see **Flashing complete** MSG then Press any key to Reboot
 </details>
 
 ---
